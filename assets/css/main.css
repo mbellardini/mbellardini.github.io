@@ -488,7 +488,7 @@ input, select, textarea {
 		}
 
 			.row > * {
-				padding: 0 0 0 2.5em;
+				padding: 0 0 0 0;
 			}
 
 			.row.gtr-uniform {
@@ -976,7 +976,7 @@ input, select, textarea {
 				}
 
 					.row > * {
-						padding: 0 0 0 2em;
+						padding: 0 0 0 0;
 					}
 
 					.row.gtr-uniform {
@@ -1221,7 +1221,7 @@ input, select, textarea {
 				}
 
 					.row > * {
-						padding: 0 0 0 2em;
+						padding: 0 0 0 0;
 					}
 
 					.row.gtr-uniform {
@@ -1466,7 +1466,7 @@ input, select, textarea {
 				}
 
 					.row > * {
-						padding: 0 0 0 1.5em;
+						padding: 0 0 0 0;
 					}
 
 					.row.gtr-uniform {
@@ -1711,7 +1711,7 @@ input, select, textarea {
 				}
 
 					.row > * {
-						padding: 0 0 0 1.5em;
+						padding: 0 0 0 0;
 					}
 
 					.row.gtr-uniform {
